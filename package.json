@@ -1,0 +1,16 @@
+{
+  "name": "study_jamstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "question.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
